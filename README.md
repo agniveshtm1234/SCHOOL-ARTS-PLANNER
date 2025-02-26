@@ -24,5 +24,44 @@ This **School Arts Planner** is a python-based management system designed to org
 
  ```bash
  pip install mysql-connector-python openpyxl opencv-python tkinter
+ ```
+
+# 📂Folder Structure
+```bash
+SCHOOL-ARTS-PLANNER/
+|-- cert/ *(Stores Generated Certificates)*
+|   |--- participation_certificates/
+|   |--- winners_certificates/
+|
+|-- EXCEL TEMPLATES/ *(Contaies pre-formatedd Excel templates)*
+|   |--- ITEMS(Template).xlsx
+|   |--- PARTICIPANTS(Template).xlsx
+|   |--- WINNERS(Template).xlsx
+|
+|-- INFO/ *(Stores generated Excel Reports)*
+|
+|-- source_code/
+|   |--- SCHOOLARTSPLANNER.py *(MAIN PYTHON SCRIPT)*
+|
+|-- template/ *(Contains Certificate templates and logo's)*
+|   |--- FIRST.jpg
+|   |--- SECOND.jpg
+|   |--- THIRD.jpg
+|   |--- participant.jpg
+|   |--- logo.png
+|
+|
+|-- README.md
+```
+
+# 🔧Future Enhancements
+🔹Add a **GUI** for better user experience.
+
+🔹Implement **Cloud Storage** for certificate management.
+
+🔹Enhance **reporting features** with detailed analytics.
+
+
+
 
    
