@@ -21,7 +21,7 @@ This **School Arts Planner** is a python-based management system designed to org
 **• MySQL**
 
 **• Required Python Libraries**
-
+ '''bash
    pip install mysql-connector-python openpyxl opencv-python tkinter
 
    
